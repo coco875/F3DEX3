@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['f3dex3_0',['F3DEX3',['../md_README.html',1,'']]]
+  ['algorithm_0',['What happened to the clipping minimal scanlines algorithm?',['../minimal-scanlines.html',1,'md_docs_2documentation']]]
 ];

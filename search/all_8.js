@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['readme_2emd_0',['README.md',['../README_8md.html',1,'']]],
-  ['rsp_5fdefs_2einc_1',['rsp_defs.inc',['../rsp__defs_8inc.html',1,'']]]
+  ['happened_20to_20the_20clipping_20minimal_20scanlines_20algorithm_0',['happened to the clipping minimal scanlines algorithm',['../minimal-scanlines.html',1,'What happened to the clipping minimal scanlines algorithm?'],['../minimal-scanlines.html#autotoc_md27',1,'What happened to the clipping minimal scanlines algorithm?']]]
 ];

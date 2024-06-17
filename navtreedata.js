@@ -34,6 +34,8 @@ var NAVTREE =
       ] ],
       [ "Credits", "md_README.html#autotoc_md6", null ]
     ] ],
+    [ "Code", "md_docs_2code.html", "md_docs_2code" ],
+    [ "Documentation", "md_docs_2documentation.html", "md_docs_2documentation" ],
     [ "Files", "files.html", [
       [ "File List", "files.html", "files_dup" ],
       [ "Globals", "globals.html", [
@@ -47,7 +49,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"dir_5caa6f95c6a0172e6e4e4c2fbe118b5e.html"
+"camera.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
