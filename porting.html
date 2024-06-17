@@ -120,8 +120,7 @@ Porting Your Romhack Codebase to F3DEX3</h1>
 Required Changes</h2>
 <p>Both OoT and SM64:</p>
 <ul>
-<li>Remove uses of internal GBI features which have been removed in F3DEX3 (see "C
-  GBI Compatibility" section below for full list). In OoT, the only changes needed are:<ul>
+<li>Remove uses of internal GBI features which have been removed in F3DEX3 (see <a class="el" href="compatibility.html">Backwards Compatibility with F3DEX2</a> for full list). In OoT, the only changes needed are:<ul>
 <li>In <code>src/code/ucode_disas.c</code>, remove the switch statement cases for <code>G_LINE3D</code>, <code>G_MW_CLIP</code>, <code>G_MV_MATRIX</code>, <code>G_MVO_LOOKATX</code>, <code>G_MVO_LOOKATY</code>, and <code>G_MW_PERSPNORM</code>.</li>
 <li>In <code>src/libultra/gu/lookathil.c</code>, remove the lines which set the <code>col</code>, <code>colc</code>, and <code>pad</code> fields.</li>
 </ul>
